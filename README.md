@@ -17,3 +17,12 @@ El uso inapropiado de este script para obtener información de direcciones IP si
 pkg update && pkg upgrade
 pkg install nodejs
 pkg install git
+git clone https://github.com/AlanYTT/NetC2.git
+cd NetC2
+npm install
+# Usar
+<details>
+<summary>Ver como usar</summary>
+
+```bash
+bash NetC2.sh (IP)
