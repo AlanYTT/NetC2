@@ -2,6 +2,7 @@
   "name": "netc2",
   "version": "1.0.0",
   "description": "Script para obtener información de una IP",
+  "private": true,
   "scripts": {
     "postinstall": "pkg install -y curl jq && chmod +x NetC2.sh"
   },
