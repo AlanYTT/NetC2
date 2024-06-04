@@ -20,9 +20,12 @@ pkg install git
 git clone https://github.com/AlanYTT/NetC2.git
 cd NetC2
 npm install
+```
 # Usar
 <details>
 <summary>Ver como usar</summary>
 
 ```bash
 bash NetC2.sh (IP)
+```
+
